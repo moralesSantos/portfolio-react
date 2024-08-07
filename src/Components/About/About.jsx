@@ -16,14 +16,17 @@ const About = () => {
             </div>
             <div className="about-right">
                 <div className="about-para">
-                    <p>I am Full Stack Engineer with over 3 years of professional expeirence.Through out my career I been able to help companies with their backend using Java and SpringBoot as well as different technologies and databases.</p>
-                    <p>I have also worked on migrating a legacy appliation to web development using Javascript/Node.JS. At the moment I really enjoying React and mainly focusing on Front-End</p>
+                    <p>I am Full Stack Engineer with over 3 years of professional expeirence.Through out my career I been able to help companies with their backend using Java,Springboot,different technologies and databases.</p>
+                    <p>I have also worked on migrating a legacy appliation to web development using Javascript,Node.JS,OracleSql. At the moment I really enjoying React and continuing to improve my skills</p>
                 </div>
                 <div className="about-skills">
-                    <div className="about-skill"><p>HTML & CSS</p> <hr style={{width:"50%"}}></hr></div>
-                    <div className="about-skill"><p>React JS</p> <hr style={{width:"70%"}}></hr></div>
-                    <div className="about-skill"><p>Javascript</p> <hr style={{width:"60%"}}></hr></div>
-                    <div className="about-skill"><p>Node.js</p> <hr style={{width:"50%"}}></hr></div>
+                    <div className="about-skill"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><hr style={{width:"60%"}}></hr></div>
+                    <div className="about-skill"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><hr style={{width:"45%"}}></hr></div>
+                    <div className="about-skill"><img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" /><hr style={{width:"55%"}}></hr></div>
+                    <div className="about-skill"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /><hr style={{width:"30%"}}></hr></div>
+                    <div className="about-skill"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><hr style={{width:"60%"}}></hr></div>
+                    <div className="about-skill"><img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" /><hr style={{width:"55%"}}></hr></div>
+                    <div className="about-skill"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/><hr style={{width:"50%"}}></hr></div>
                 </div>
             </div>
         </div>
