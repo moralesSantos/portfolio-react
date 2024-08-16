@@ -1,6 +1,7 @@
 import coming_soon_img from '../assets/coming_soon.png'
 import amigoscode_img from '../assets/amigoscode.png'
 import dicegame_img from '../assets/dicegame.png'
+import simongame_img from '../assets/simon-game.png'
 
 const mywork_data = [
     {
@@ -19,8 +20,8 @@ const mywork_data = [
     {
         w_no:3,
         w_name:"Web design",
-        w_img:coming_soon_img,
-        w_link:""
+        w_img:simongame_img,
+        w_link:"https://moralessantos.github.io/SimonGame/"
     },
     {
         w_no:4,
