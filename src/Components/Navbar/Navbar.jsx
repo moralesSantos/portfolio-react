@@ -19,7 +19,6 @@ const Navbar = () => {
 
     return (
         <div className="navbar">
-            <img src={logo} />
             <img src={menu_open} onClick={openMenu} alt="" className="nav-mob-open"/>
             <ul ref={menuRef} className="nav-menu">
             <img onClick={closeMenu} className="nav-mob-close" src={menu_close} alt="" />
